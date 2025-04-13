@@ -8,6 +8,7 @@ Business Problem
 Salifort Motors is facing a high rate of employee turnover, impacting corporate culture and financial performance. To mitigate this issue, I analyzed employee data to predict turnover trends, uncover driving factors, and provide strategic recommendations for retention.
 
 ⚙️ Project Features
+
 1️⃣ Exploratory Data Analysis (EDA)
 - Explored self-reported employee data for patterns like satisfaction levels, hours worked, and tenure.
 - Used Python libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly) to visualize correlations and trends.
