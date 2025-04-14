@@ -74,10 +74,6 @@ This capstone reflects proficiency honed through certifications:
 - 🤖 IBM AI Developer Certification
 - 🏅 SQL Certified by HackerRank
 
-Resources:
-- Python libraries documentation
-- Industry-leading machine learning guides
-- Tableau dashboards for visualization
 
 
 
